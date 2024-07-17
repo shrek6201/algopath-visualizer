@@ -8,4 +8,4 @@ The app works in the following way: 1. The application by default has 'No Maze' 
                                     3. After selecting required parameters, user can click the play button which then starts the algorithm which the user has selected.
                                     4. When the selected algorithm is working its way, user cannot select any more mazes or algorithms or speed types. He/She has to wait until the algorithm has finished working.
                                     5. After the algorithm has finished working, the play button turns into a reset button which when clicked, resets the mapping of the previous algorithm and clears the maze.
-Potential users can clone this repo and edit the application as they see fit. Users can also add new maze types and algorithms. 
+Potential users can clone this repo and edit the application as they see fit. Users can also add new maze types and algorithms.
